@@ -1,10 +1,13 @@
 # Lipsum
 
-Lipsum for the laziness of finding a better name is a simple quiz management web app. You might call it a broke person's Quizziz of Kahoot. Our aim is to create a simple web app that has capabilities to :
+![](https://y.yarn.co/89e0c3fe-0ce7-4c4b-a348-a5a571b7544f_text.gif)
+
+
+Lipsum for the laziness of finding a better name is a simple quiz management web app. You might call it a broke person's Quizziz or Kahoot. Our aim is to create a simple web app that has capabilities to :
 -  Add Questions
 -  Add multiple choice options
 -  Create Quiz Rooms
--  Conduct  Timed Quiz
+-  Conduct Timed Quizes
   
 
 
