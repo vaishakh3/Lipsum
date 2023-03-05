@@ -5,7 +5,7 @@ function Landing() {
         <div>
             <div className="header">
                 <img id="img1" src="Chakra.svg" />
-                <p id="lip"> <span>Lorem</span>ipsum</p>
+                <p id="lip"> <span id="span">Lorem</span>ipsum</p>
             </div>
             <div className="welcome">
                 <p id="wtxt1">Welcome to the new way of quizzes</p>
