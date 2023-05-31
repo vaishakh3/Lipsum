@@ -9,7 +9,7 @@ Lipsum (for the laziness of finding a better name) is a simple quiz management w
 -  Create Quiz Rooms
 -  Conduct Timed Quizes
   
-[VaishakhSuresh (1).pdf](https://github.com/vaishakh3/Lipsum/files/11616697/VaishakhSuresh.1.pdf)
+![image](https://github.com/vaishakh3/Lipsum/assets/72205266/a6f8e5f6-123c-4227-8df4-b6b8a88fc062)
 
 ---
 
